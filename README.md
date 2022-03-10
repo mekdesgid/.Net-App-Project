@@ -4,7 +4,7 @@
 
 * [visual-studio](https://visualstudio.microsoft.com/vs/mac/) 
 * [Newtonsoft.Json](https://www.newtonsoft.com/json) (can be installed locally in visual-studio)
-* [.Net Core Hosting Bundle](ASP.NET Core 6.0 Runtime (v6.0.3) - Windows Hosting Bundle.) The bundle allows ASP.NET Core apps to run with IIS.
+* [.Net Core Hosting Bundle](ASP.NET Core 6.0 Runtime (v6.0.3) - Windows Hosting Bundle) The bundle allows ASP.NET Core apps to run with IIS.
 * [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) 
 
 ## build .Net Core Web App
