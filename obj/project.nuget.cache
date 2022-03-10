@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9q1wTvm7t+9Iy/QEf6+9YTb0k+gkEM7Cal5GySR61s7mlG6hQFS4NbtcZ7DWbp5WxAYmZaJpEsrmVmOewO9/w==",
+  "success": true,
+  "projectFilePath": "/Users/mqdsgydlw/Projects/bootcamp/bootcamp/bootcamp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mqdsgydlw/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
