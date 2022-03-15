@@ -10,7 +10,7 @@
 ## build .Net Core Web App
 
 1. Clone or download source files
-1. open project on **isual-studio**
+1. open project on **visual-studio**
 1. install the package **Newtonsoft.Json**
 1. build your application using the **build** button
 1. publish your application to Folder --- and copy the files that Were created
